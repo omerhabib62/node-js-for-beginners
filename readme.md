@@ -22,8 +22,12 @@ Using  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8" target="_blank">Nod
 This tutorial is provided by <a href="https://www.youtube.com/@DaveGrayTeachesCode">Dave Gray</a>
 
 <br/>
-Differences in NodeJS and Vanilla JS
-1) Node runs on server while Vanilla JS runs on client side(browser).
-2) Node has Common core modules
-3) CommonJS modules instead of ES6 modules
+<h3>Differences in NodeJS and Vanilla JS</h3>
+<ol>
+<li> Node runs on server while Vanilla JS runs on client side(browser).</li>
+<li> Node has Common core modules</li>
+<li> CommonJS modules instead of ES6 modules</li>
+</ol>
+Reference <a href= "https://github.com/gitdagray/node_js_resources" target="_blank">Git </a>used for this project built by  <a href="https://github.com/gitdagray" target="_blank">Dave Gray</a>
+<br/>
 
