@@ -20,3 +20,10 @@ Using  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8" target="_blank">Nod
 <p>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</p>
 
 This tutorial is provided by <a href="https://www.youtube.com/@DaveGrayTeachesCode">Dave Gray</a>
+
+<br/>
+Differences in NodeJS and Vanilla JS
+1) Node runs on server while Vanilla JS runs on client side(browser).
+2) Node has Common core modules
+3) CommonJS modules instead of ES6 modules
+
