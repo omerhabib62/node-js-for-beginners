@@ -1,5 +1,5 @@
 # Learning NodeJS
-Using  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8" target="_blank">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a> , to learn NodeJS video includes<br />
+Using  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8" target="_blank">Node.js Full Course for Beginners | Complete All-in-One Tutorial | 7 Hours</a> , to learn NodeJS video includes<br /><br />
 <a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=0s" target="_blank">(0:00:00) Intro</a> <br />
 <a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=58s" target="_blank">(0:00:58) Chapter 1: Start Here</a> <br />
 <a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=1046s" target="_blank">(0:17:26) Chapter 2: Read and Write Files</a><br />
@@ -17,6 +17,6 @@ Using  <a href="https://www.youtube.com/watch?v=f2EqECiTBL8" target="_blank">Nod
 <a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=20278s" target="_blank">(5:54:32) Chapter 14: Mongoose Data Models</a><br />
 <a href="https://www.youtube.com/watch?v=f2EqECiTBL8&t=22527s" target="_blank">(6:15:27) Chapter 15: Async CRUD Operations</a><br />
 
-This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.
+<p>This Node.js Full Course for Beginners is an all-in-one beginner tutorial and complete course full of nearly 7 hours of Node JS code and instruction to level up your programming skills. This course teaches NodeJS, the Express JS framework, and MongoDB. Think of this Node.js full course tutorial as a Node JS video textbook with 15 clearly defined chapters.</p>
 
 This tutorial is provided by <a href="https://www.youtube.com/@DaveGrayTeachesCode">Dave Gray</a>
