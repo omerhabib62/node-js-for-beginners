@@ -9,6 +9,8 @@
 
 
 const fs = require('fs');
+const path= require('path');
+
 fs.readFile('./files/starter.txt', 'utf8', (err,data) => {
     if(err) throw err;
     // console.log(data); //return file in form of memory address
