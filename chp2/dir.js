@@ -1,3 +1,4 @@
+//For directory managements
 const fs = require('fs');
 
 if(!fs.existsSync('./new')){
