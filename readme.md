@@ -31,3 +31,7 @@ This tutorial is provided by <a href="https://www.youtube.com/@DaveGrayTeachesCo
 Reference <a href= "https://github.com/gitdagray/node_js_resources" target="_blank">Git </a>used for this project built by  <a href="https://github.com/gitdagray" target="_blank">Dave Gray</a>
 <br/>
 
+Issue for Windows installing nodemon using npm install
+
+
+https://stackoverflow.com/questions/17975999/i-can%C2%B4t-install-nodemon-globally-nodemon-not-recognized
